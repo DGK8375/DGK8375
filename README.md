@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGK8375&theme=vue-dark)
+![tao-isaman github stats](https://github-readme-stats.vercel.app/api?username=DGK8375&show_icons=true&theme=vue-dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=DGK8375&theme=onedark)
+
 
 <!--
 **DGK8375/DGK8375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
